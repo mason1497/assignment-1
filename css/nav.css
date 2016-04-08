@@ -1,0 +1,33 @@
+nav {
+	margin: auto;
+	width:960px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-shadow: none;
+    text-decoration: none;
+    overflow: hidden;
+    text-align: center;
+}
+
+nav li {
+	float: left;
+}
+
+nav a:link, a:visited {
+	display: block;
+	width: 160px;
+	padding: 4px;
+	text-transform: uppercase;
+	background-color: gray;
+	color: blue;
+	text-decoration: none;
+	border: 1px solid black;
+}
+
+nav a:hover, a:active {
+	color: yellow;
+}

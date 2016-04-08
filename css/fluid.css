@@ -1,0 +1,43 @@
+body {
+	width: 90%;
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+	font-family: Verdana;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+.cdm {
+	text-align: center;
+	padding: 50px;
+}
+
+#stamp {
+	text-align: center;
+}
+
+.me {
+	display: inline-block;
+	width: 10%;
+	padding-top: 40px;
+	padding-left: 170px;
+}
+
+.about {
+	display: inline-block;
+	width: 60%;
+	vertical-align: top;
+	padding-left: 10px;
+}
+
+footer {
+	display: block;
+	padding-top: 30px;
+}
